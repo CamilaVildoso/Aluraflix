@@ -1,8 +1,27 @@
-# React + Vite
+<div align="center">
+  <h1> ▶️ AluraFlix ▶️</h1>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Logo de AluraFlix](https://user-images.githubusercontent.com/95771285/223715399-35b5f0c4-ebd1-4115-9187-9ec8661f1b2d.png)
 
-Currently, two official plugins are available:
+## 🎬 Descripción del Proyecto!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+AluraFlix es una aplicación desarrollada en React diseñada para gestionar una colección de videos. Permite visualizar, editar, eliminar y agregar nuevos videos utilizando una interfaz intuitiva y amigable.
+
+
+## 🎬 Características de la Aplicación
+
+- Renderizado de tarjetas de videos.
+- Edición de información de los videos existentes.
+- Eliminación de videos.
+- Adición de nuevos videos.
+- Integración con una base de datos simulada para almacenar los datos.
+
+## 🎬 Tecnologías Utilizadas
+
+- React + Vite
+- Javascript
+- CSS 
+- JSON Server (para la base de datos simulada)
+
+
